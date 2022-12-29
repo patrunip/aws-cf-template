@@ -1,3 +1,4 @@
+
 AWSTemplateFormatVersion: 2010-09-09
 
 # CF Template creates a simple VPC with basic connectivity
