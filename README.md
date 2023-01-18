@@ -3,7 +3,7 @@ Welcome to VPC-EC2-Subnet Template Project.
 Background:
 This project has a reusable Cloudformation temlate. The template will create Singular VPC.
 A public and private subnets will be created and A sample EC2 instance will be created in the public subnet. 
-The EC2 will be accsible for a small modification on the subnet. This is to prevent unathorized access to EC2 
+The EC2 will be accesible for a small modification on the subnet. This is to prevent unauthorized access to EC2 
 A high level diagram for the architecture of this template is shown below.
 
 This template is specifically useful when we want to create a quick EC2 instance a VPC configured with private and public subnet. 
